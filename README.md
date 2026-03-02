@@ -32,9 +32,9 @@ The goal of this project is to strengthen my understanding of fundamental algori
 
 ## 📂 Project Structure
 
-notes/ → Personal study notes
-code/ → Algorithm implementations
-exercises/ → Chapter exercises and reflections
+- notes/ → Personal study notes
+- code/ → Algorithm implementations
+- exercises/ → Chapter exercises and reflections
 
 ---
 
