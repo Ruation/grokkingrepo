@@ -31,3 +31,43 @@ The goal of this project is to strengthen my understanding of fundamental algori
 ---
 
 ## 📂 Project Structure
+
+notes/ → Personal study notes
+code/ → Algorithm implementations
+exercises/ → Chapter exercises and reflections
+
+---
+
+## 🎯 Objectives
+
+- Improve algorithmic thinking
+- Master core computer science fundamentals
+- Build a strong foundation for technical interviews
+- Improve my English technical vocabulary
+
+---
+
+## 🚀 Technologies Used
+
+- Python
+- Git & GitHub
+
+---
+
+## 📌 Status
+
+📖 Currently studying and updating progressively.
+
+## 📈 Progress
+
+- [x] Chapter 1 – Introduction to Algorithms
+- [x] Chapter 2 – Selection Sort
+- [x] Chapter 3 – Recursion
+- [x] Chapter 4 – Quicksort
+- [x] Chapter 5 – Hash Tables
+- [x] Chapter 6 – Breadth-First Search (BFS)
+- [x] Chapter 7 – Dijkstra's Algorithm
+- [ ] Chapter 8 – Greedy Algorithms
+- [ ] Chapter 9 – Dynamic Programming
+- [ ] Chapter 10 – K-Nearest Neighbors
+- [ ] Chapter 11 – Where to Go Next
