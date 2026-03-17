@@ -68,7 +68,7 @@ The goal of this project is to strengthen my understanding of fundamental algori
 - [x] Chapter 4 – Quicksort ➡️ [Notes](notes/chapter-04-notes.md)
 - [x] Chapter 5 – Hash Tables ➡️ [Notes](notes/chapter-05-notes.md)
 - [x] Chapter 6 – Breadth-First Search (BFS) ➡️ [Notes](notes/chapter-06-notes.md)
-- [ ] Chapter 7 – Dijkstra's Algorithm
+- [x] Chapter 7 – Dijkstra's Algorithm
 - [ ] Chapter 8 – Greedy Algorithms
 - [ ] Chapter 9 – Dynamic Programming
 - [ ] Chapter 10 – K-Nearest Neighbors
