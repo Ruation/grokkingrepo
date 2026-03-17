@@ -17,12 +17,13 @@ The goal of this project is to strengthen my understanding of fundamental algori
 
 ## 🧠 Topics Covered
 
-- Binary Search
-- Selection Sort
-- Recursion
-- Quicksort
-- Hash Tables
-- Breadth-First Search (BFS)
+- Binary Search ➡️ [Notes 1](notes/chapter-01-notes.md)
+- Big O Notations ➡️ [Notes 1](notes/chapter-01-notes.md)
+- Selection Sort ➡️ [Notes 2](notes/chapter-02-notes.md)
+- Recursion ➡️ [Notes 3](notes/chapter-03-notes.md)
+- Quicksort ➡️ [Notes 4](notes/chapter-04-notes.md)
+- Hash Tables ➡️ [Notes 5](notes/chapter-05-notes.md)
+- Breadth-First Search (BFS) ➡️ [Notes 6](notes/chapter-06-notes.md)
 - Dijkstra’s Algorithm
 - Greedy Algorithms
 - Dynamic Programming
@@ -61,14 +62,14 @@ The goal of this project is to strengthen my understanding of fundamental algori
 
 ## 📈 Progress
 
-- [x] Chapter 1 – Introduction to Algorithms
-- [x] Chapter 2 – Selection Sort
-- [x] Chapter 3 – Recursion
-- [x] Chapter 4 – Quicksort
-- [x] Chapter 5 – Hash Tables
-- [x] Chapter 6 – Breadth-First Search (BFS)
-- [x] Chapter 7 – Dijkstra's Algorithm
-- [x] Chapter 8 – Greedy Algorithms
-- [x] Chapter 9 – Dynamic Programming
-- [x] Chapter 10 – K-Nearest Neighbors
-- [x] Chapter 11 – Where to Go Next
+- [x] Chapter 1 – Introduction to Algorithms ➡️ [Notes](notes/chapter-01-notes.md)
+- [x] Chapter 2 – Selection Sort ➡️ [Notes](notes/chapter-02-notes.md)
+- [x] Chapter 3 – Recursion ➡️ [Notes](notes/chapter-03-notes.md)
+- [x] Chapter 4 – Quicksort ➡️ [Notes](notes/chapter-04-notes.md)
+- [x] Chapter 5 – Hash Tables ➡️ [Notes](notes/chapter-05-notes.md)
+- [x] Chapter 6 – Breadth-First Search (BFS) ➡️ [Notes](notes/chapter-06-notes.md)
+- [] Chapter 7 – Dijkstra's Algorithm
+- [] Chapter 8 – Greedy Algorithms
+- [] Chapter 9 – Dynamic Programming
+- [] Chapter 10 – K-Nearest Neighbors
+- [] Chapter 11 – Where to Go Next
