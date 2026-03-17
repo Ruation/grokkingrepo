@@ -23,16 +23,20 @@ This structure is useful for representing networks such as:
 ## Graph Representation
 
 Graphs are commonly stored using an adjacency list.
+
 Example:
+
 graph = {
-  "you": ["alice", "bob", "claire"],
-  "bob": ["anuj", "peggy"],
-  "alice": ["peggy"],
-  "claire": ["thom"],
-  "anuj": [],
-  "peggy": [],
-  "thom": []
+
+-  "you": ["alice", "bob", "claire"],
+-   "bob": ["anuj", "peggy"],
+-   "alice": ["peggy"],
+-   "claire": ["thom"],
+-   "anuj": [],
+-   "peggy": [],
+-   "thom": []
 }
+
 Each node points to the list of its neighbors.
 
 
